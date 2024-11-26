@@ -28,7 +28,7 @@
 				<groupId>org.liquibase</groupId>
 				<artifactId>liquibase-maven-plugin</artifactId>
 				<configuration>
-					<propertyFile>src/main/resources/liquibase.yaml</propertyFile>
+					<propertyFile>src/main/resources/liquibase-settings.yaml</propertyFile>
 				</configuration>
 				<executions>
 					<execution>

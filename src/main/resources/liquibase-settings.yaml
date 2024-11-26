@@ -1,5 +1,5 @@
 driver: org.postgresql.Driver
 url: jdbc:postgresql://localhost:5432/liquibase_example
-username: postgres
-password: pass
+username: beerwaroff
+password: root
 changeLogFile: src/main/resources/db/changelog/db.changelog-master.yaml
