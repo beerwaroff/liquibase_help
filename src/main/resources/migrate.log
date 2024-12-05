@@ -1,0 +1,605 @@
+[INFO] Error stacktraces are turned on.
+[IJ]-1-ProjectDiscoveryStarted-[IJ]-id=unknown
+[INFO] Scanning for projects...
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-parent:pom:3.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-dependencies:pom:3.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:activemq-bom:pom:6.1.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:artemis-bom:pom:2.37.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.activemq:artemis-project:pom:2.37.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:33-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.assertj:assertj-bom:pom:3.26.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.zipkin.reporter2:zipkin-reporter-bom:pom:3.4.2-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.zipkin.brave:brave-bom:pom:6.0.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.cassandra:java-driver-bom:pom:4.18.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jaxb:jaxb-bom:pom:4.0.5-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.ee4j:project:pom:1.0.9-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.groovy:groovy-bom:pom:4.0.24-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.infinispan:infinispan-bom:pom:15.0.11.Final-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.infinispan:infinispan-build-configuration-parent:pom:15.0.11.Final-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jboss:jboss-parent:pom:43-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-bom:pom:2.18.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml.jackson:jackson-parent:pom:2.18.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.fasterxml:oss-parent:pom:61-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.glassfish.jersey:jersey-bom:pom:3.1.9-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.jetty.ee10:jetty-ee10-bom:pom:12.0.15-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.eclipse.jetty:jetty-bom:pom:12.0.15-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.11.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlin:kotlin-bom:pom:1.9.25-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlinx:kotlinx-coroutines-bom:pom:1.8.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.jetbrains.kotlinx:kotlinx-serialization-bom:pom:1.6.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging.log4j:log4j-bom:pom:2.24.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.logging:logging-parent:pom:11.3.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-bom:pom:1.14.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-tracing-bom:pom:1.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.micrometer:micrometer-bom:pom:1.14.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.mockito:mockito-bom:pom:5.14.2-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.netty:netty-bom:pom:4.1.115.Final-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.sonatype.oss:oss-parent:pom:7-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.opentelemetry:opentelemetry-bom:pom:1.43.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:prometheus-metrics-bom:pom:1.3.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:client_java:pom:1.3.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:simpleclient_bom:pom:0.16.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.prometheus:parent:pom:0.16.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.pulsar:pulsar-bom:pom:3.3.2-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:29-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.querydsl:querydsl-bom:pom:5.1.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.projectreactor:reactor-bom:pom:2024.0.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.rest-assured:rest-assured-bom:pom:5.5.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=io.rsocket:rsocket-bom:pom:1.1.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.seleniumhq.selenium:selenium-bom:pom:4.25.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.amqp:spring-amqp-bom:pom:3.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.batch:spring-batch-bom:pom:5.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.data:spring-data-bom:pom:2024.1.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework:spring-framework-bom:pom:6.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.integration:spring-integration-bom:pom:6.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.pulsar:spring-pulsar-bom:pom:1.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.restdocs:spring-restdocs-bom:pom:3.0.3-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.security:spring-security-bom:pom:6.4.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.session:spring-session-bom:pom:3.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.ws:spring-ws-bom:pom:4.0.11-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.testcontainers:testcontainers-bom:pom:1.20.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-starter-parent:pom:3.4.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.springframework.boot:spring-boot-dependencies:pom:3.4.0-[IJ]-error=
+[IJ]-1-SessionStarted-[IJ]-id=ru.beerwaroff:liquibasehelp:jar:0.0.1-SNAPSHOT-[IJ]-projects=ru.beerwaroff:liquibasehelp:0.0.1-SNAPSHOT&&
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:pom:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:jar:4.17.0-[IJ]-error=
+[IJ]-1-ProjectStarted-[IJ]-id=ru.beerwaroff:liquibasehelp:jar:0.0.1-SNAPSHOT
+[INFO] 
+[INFO] --------------------< ru.beerwaroff:liquibasehelp >---------------------
+[INFO] Building liquibasehelp 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[IJ]-1-DependencyResolutionRequest-[IJ]-id=ru.beerwaroff:liquibasehelp:jar:0.0.1-SNAPSHOT
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.postgresql:postgresql:pom:42.7.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.checkerframework:checker-qual:pom:3.42.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.postgresql:postgresql:jar:42.7.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.checkerframework:checker-qual:jar:3.42.0-[IJ]-error=
+[IJ]-1-DependencyResolutionResult-[IJ]-error=
+[IJ]-1-MojoStarted-[IJ]-source=CLI-[IJ]-goal=update-[IJ]-id=ru.beerwaroff:liquibasehelp:jar:0.0.1-SNAPSHOT-[IJ]-error=
+[INFO] 
+[INFO] --- liquibase:4.17.0:update (default-cli) @ liquibasehelp ---
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:pom:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-core:pom:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.xml.bind:jaxb-api:pom:2.3.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.xml.bind:jaxb-api-parent:pom:2.3.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.java:jvnet-parent:pom:5-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.activation:javax.activation-api:pom:1.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.sun.activation:all:pom:1.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=net.java:jvnet-parent:pom:1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.yaml:snakeyaml:pom:1.32-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.opencsv:opencsv:pom:5.6-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.12.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:52-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:23-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.junit:junit-bom:pom:5.7.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-text:pom:1.9-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:51-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:pom:3.11-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-collections4:pom:4.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-parent:pom:48-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache:apache:pom:21-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-commercial:pom:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-maven-plugin:jar:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-core:jar:4.17.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.xml.bind:jaxb-api:jar:2.3.1-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=javax.activation:javax.activation-api:jar:1.2.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.yaml:snakeyaml:jar:1.32-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=com.opencsv:opencsv:jar:5.6-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-lang3:jar:3.12.0-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-text:jar:1.9-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.apache.commons:commons-collections4:jar:4.4-[IJ]-error=
+[IJ]-1-ARTIFACT_RESOLVING-[IJ]-path=-[IJ]-artifactCoord=org.liquibase:liquibase-commercial:jar:4.17.0-[IJ]-error=
+[INFO] ------------------------------------------------------------------------
+[INFO] Parsing Liquibase Properties File
+[INFO]   File: liquibase.properties
+[INFO] ------------------------------------------------------------------------
+[INFO] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##  Free schema change activity reports at        ##
+##      https://hub.liquibase.com                 ##
+##                                                ##
+####################################################
+Starting Liquibase at 18:12:28 (version 4.17.0 #4922 built at 2022-10-05 14:56+0000)
+[INFO] Set default schema name to public
+[INFO] Parsing Liquibase Properties File liquibase.properties for changeLog parameters
+[INFO] Executing on Database: jdbc:postgresql://localhost:5432/liquibase_example
+[INFO] SET SEARCH_PATH TO public, "$user","public"
+[INFO] 0 row(s) affected
+[INFO] Successfully acquired change log lock
+[INFO] Reading from databasechangelog
+Running Changeset: db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user
+[INFO] CRE]я]яATE SCHEMA nursery
+[INFO] Successfully released change log lock
+[IJ]-1-INTERR-[IJ]-error=org/apache/commons/lang3/exception/ExceptionUtilsorg.jetbrains.maven.server.IntellijMavenSpy.getErrorMessage(IntellijMavenSpy.java:110)-[N]-org.jetbrains.maven.server.IntellijMavenSpy.onExecutionEvent(IntellijMavenSpy.java:93)-[N]-org.jetbrains.maven.server.IntellijMavenSpy.onEvent(IntellijMavenSpy.java:31)-[N]-org.apache.maven.eventspy.internal.EventSpyDispatcher.onEvent(EventSpyDispatcher.java:86)-[N]-org.apache.maven.eventspy.internal.EventSpyExecutionListener.mojoFailed(EventSpyExecutionListener.java:120)-[N]-org.apache.maven.lifecycle.internal.DefaultExecutionEventCatapult.fire(DefaultExecutionEventCatapult.java:83)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:338)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:316)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:174)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.access$000(MojoExecutor.java:75)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor$1.run(MojoExecutor.java:162)-[N]-org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute(DefaultMojosExecutionStrategy.java:39)-[N]-org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:159)-[N]-org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:105)-[N]-org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:73)-[N]-org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:53)-[N]-org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:118)-[N]-org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:261)-[N]-org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:173)-[N]-org.apache.maven.DefaultMaven.execute(DefaultMaven.java:101)-[N]-org.apache.maven.cli.MavenCli.execute(MavenCli.java:906)-[N]-org.apache.maven.cli.MavenCli.doMain(MavenCli.java:283)-[N]-org.apache.maven.cli.MavenCli.main(MavenCli.java:206)-[N]-java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)-[N]-java.base/java.lang.reflect.Method.invoke(Method.java:580)-[N]-org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:255)-[N]-org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:201)-[N]-org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:361)-[N]-org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:314)-[N]-org.codehaus.classworlds.Launcher.main(Launcher.java:41)-[N]-
+[IJ]-1-ProjectFailed-[IJ]-id=ru.beerwaroff:liquibasehelp:jar:0.0.1-SNAPSHOT
+[IJ]-1-SessionEnded-[IJ]-id=unknown
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.806 s
+[INFO] Finished at: 2024-12-05T18:12:28+03:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.liquibase:liquibase-maven-plugin:4.17.0:update (default-cli) on project liquibasehelp: 
+[ERROR] Error setting up or running Liquibase:
+[ERROR] liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+[ERROR]      Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+[ERROR]   Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+[ERROR] -> [Help 1]
+org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.liquibase:liquibase-maven-plugin:4.17.0:update (default-cli) on project liquibasehelp: 
+Error setting up or running Liquibase:
+liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+     Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:333)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: org.apache.maven.plugin.MojoExecutionException: 
+Error setting up or running Liquibase:
+liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+     Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:769)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: org.apache.maven.plugin.MojoExecutionException: 
+Error setting up or running Liquibase:
+liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+     Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$1 (AbstractLiquibaseMojo.java:760)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$execute$2 (AbstractLiquibaseMojo.java:679)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:611)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+     Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at liquibase.changelog.ChangeLogIterator.run (ChangeLogIterator.java:126)
+    at liquibase.Liquibase.lambda$null$0 (Liquibase.java:291)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Liquibase.lambda$update$1 (Liquibase.java:290)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Liquibase.runInScope (Liquibase.java:2447)
+    at liquibase.Liquibase.update (Liquibase.java:236)
+    at liquibase.Liquibase.update (Liquibase.java:221)
+    at liquibase.Liquibase.update (Liquibase.java:623)
+    at org.liquibase.maven.plugins.LiquibaseUpdate.doUpdate (LiquibaseUpdate.java:35)
+    at org.liquibase.maven.plugins.AbstractLiquibaseUpdateMojo.performLiquibaseTask (AbstractLiquibaseUpdateMojo.java:32)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$0 (AbstractLiquibaseMojo.java:756)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$1 (AbstractLiquibaseMojo.java:755)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$execute$2 (AbstractLiquibaseMojo.java:679)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:611)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/scripts/CORPS-1111-create-schema-nursery.sql::1::user:
+     Reason: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at liquibase.changelog.ChangeSet.execute (ChangeSet.java:714)
+    at liquibase.changelog.visitor.UpdateVisitor.visit (UpdateVisitor.java:56)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$null$0 (ChangeLogIterator.java:113)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$run$1 (ChangeLogIterator.java:112)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.changelog.ChangeLogIterator$2.run (ChangeLogIterator.java:93)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at liquibase.changelog.ChangeLogIterator.run (ChangeLogIterator.java:65)
+    at liquibase.Liquibase.lambda$null$0 (Liquibase.java:291)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Liquibase.lambda$update$1 (Liquibase.java:290)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Liquibase.runInScope (Liquibase.java:2447)
+    at liquibase.Liquibase.update (Liquibase.java:236)
+    at liquibase.Liquibase.update (Liquibase.java:221)
+    at liquibase.Liquibase.update (Liquibase.java:623)
+    at org.liquibase.maven.plugins.LiquibaseUpdate.doUpdate (LiquibaseUpdate.java:35)
+    at org.liquibase.maven.plugins.AbstractLiquibaseUpdateMojo.performLiquibaseTask (AbstractLiquibaseUpdateMojo.java:32)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$0 (AbstractLiquibaseMojo.java:756)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$1 (AbstractLiquibaseMojo.java:755)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$execute$2 (AbstractLiquibaseMojo.java:679)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:611)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: liquibase.exception.DatabaseException: ERROR: syntax error at or near "CRE"
+  Позиция: 1 [Failed SQL: (0) CRE]я]яATE SCHEMA nursery]
+    at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement (JdbcExecutor.java:447)
+    at liquibase.executor.jvm.JdbcExecutor.execute (JdbcExecutor.java:78)
+    at liquibase.executor.jvm.JdbcExecutor.execute (JdbcExecutor.java:161)
+    at liquibase.database.AbstractJdbcDatabase.execute (AbstractJdbcDatabase.java:1270)
+    at liquibase.database.AbstractJdbcDatabase.executeStatements (AbstractJdbcDatabase.java:1252)
+    at liquibase.changelog.ChangeSet.execute (ChangeSet.java:679)
+    at liquibase.changelog.visitor.UpdateVisitor.visit (UpdateVisitor.java:56)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$null$0 (ChangeLogIterator.java:113)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$run$1 (ChangeLogIterator.java:112)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.changelog.ChangeLogIterator$2.run (ChangeLogIterator.java:93)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at liquibase.changelog.ChangeLogIterator.run (ChangeLogIterator.java:65)
+    at liquibase.Liquibase.lambda$null$0 (Liquibase.java:291)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Liquibase.lambda$update$1 (Liquibase.java:290)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Liquibase.runInScope (Liquibase.java:2447)
+    at liquibase.Liquibase.update (Liquibase.java:236)
+    at liquibase.Liquibase.update (Liquibase.java:221)
+    at liquibase.Liquibase.update (Liquibase.java:623)
+    at org.liquibase.maven.plugins.LiquibaseUpdate.doUpdate (LiquibaseUpdate.java:35)
+    at org.liquibase.maven.plugins.AbstractLiquibaseUpdateMojo.performLiquibaseTask (AbstractLiquibaseUpdateMojo.java:32)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$0 (AbstractLiquibaseMojo.java:756)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$1 (AbstractLiquibaseMojo.java:755)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$execute$2 (AbstractLiquibaseMojo.java:679)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:611)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "CRE"
+  Позиция: 1
+    at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse (QueryExecutorImpl.java:2733)
+    at org.postgresql.core.v3.QueryExecutorImpl.processResults (QueryExecutorImpl.java:2420)
+    at org.postgresql.core.v3.QueryExecutorImpl.execute (QueryExecutorImpl.java:372)
+    at org.postgresql.jdbc.PgStatement.executeInternal (PgStatement.java:517)
+    at org.postgresql.jdbc.PgStatement.execute (PgStatement.java:434)
+    at org.postgresql.jdbc.PgStatement.executeWithFlags (PgStatement.java:356)
+    at org.postgresql.jdbc.PgStatement.executeCachedSql (PgStatement.java:341)
+    at org.postgresql.jdbc.PgStatement.executeWithFlags (PgStatement.java:317)
+    at org.postgresql.jdbc.PgStatement.execute (PgStatement.java:312)
+    at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement (JdbcExecutor.java:443)
+    at liquibase.executor.jvm.JdbcExecutor.execute (JdbcExecutor.java:78)
+    at liquibase.executor.jvm.JdbcExecutor.execute (JdbcExecutor.java:161)
+    at liquibase.database.AbstractJdbcDatabase.execute (AbstractJdbcDatabase.java:1270)
+    at liquibase.database.AbstractJdbcDatabase.executeStatements (AbstractJdbcDatabase.java:1252)
+    at liquibase.changelog.ChangeSet.execute (ChangeSet.java:679)
+    at liquibase.changelog.visitor.UpdateVisitor.visit (UpdateVisitor.java:56)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$null$0 (ChangeLogIterator.java:113)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.changelog.ChangeLogIterator$2.lambda$run$1 (ChangeLogIterator.java:112)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.changelog.ChangeLogIterator$2.run (ChangeLogIterator.java:93)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at liquibase.changelog.ChangeLogIterator.run (ChangeLogIterator.java:65)
+    at liquibase.Liquibase.lambda$null$0 (Liquibase.java:291)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Liquibase.lambda$update$1 (Liquibase.java:290)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Liquibase.runInScope (Liquibase.java:2447)
+    at liquibase.Liquibase.update (Liquibase.java:236)
+    at liquibase.Liquibase.update (Liquibase.java:221)
+    at liquibase.Liquibase.update (Liquibase.java:623)
+    at org.liquibase.maven.plugins.LiquibaseUpdate.doUpdate (LiquibaseUpdate.java:35)
+    at org.liquibase.maven.plugins.AbstractLiquibaseUpdateMojo.performLiquibaseTask (AbstractLiquibaseUpdateMojo.java:32)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$0 (AbstractLiquibaseMojo.java:756)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$null$1 (AbstractLiquibaseMojo.java:755)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.lambda$execute$2 (AbstractLiquibaseMojo.java:679)
+    at liquibase.Scope.lambda$child$0 (Scope.java:180)
+    at liquibase.Scope.child (Scope.java:189)
+    at liquibase.Scope.child (Scope.java:179)
+    at liquibase.Scope.child (Scope.java:158)
+    at liquibase.Scope.child (Scope.java:243)
+    at liquibase.Scope.child (Scope.java:247)
+    at org.liquibase.maven.plugins.AbstractLiquibaseMojo.execute (AbstractLiquibaseMojo.java:611)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:126)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke (Method.java:580)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:255)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:201)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:361)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:314)
+    at org.codehaus.classworlds.Launcher.main (Launcher.java:41)
+[ERROR] 
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
